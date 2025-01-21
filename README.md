@@ -1,7 +1,7 @@
-# Advanced Deep Learning Engineering Portfolio
+# Advanced Deep Learning Engineering 
 
 ## 🎯 Expertise Focus
-Specialized in designing and implementing cutting-edge deep learning architectures, with emphasis on transformers, generative models, and efficient training methodologies. Experience in both research and production environments.
+Wanna specialize myself in designing and implementing cutting-edge deep learning architectures, with emphasis on transformers, generative models, and efficient training methodologies. Building experience in both research and production environments.
 
 ## 🛠️ Technical Framework
 
@@ -25,7 +25,7 @@ import diffusers
 import torchvision
 ```
 
-### Infrastructure
+### Advanced Infrastructure
 - **Hardware:** NVIDIA A100s, TPU v4, Multi-GPU Systems
 - **Distributed Training:** Horovod, DeepSpeed, PyTorch DDP
 - **Experiment Tracking:** Weights & Biases, MLflow, TensorBoard
@@ -83,7 +83,7 @@ class EfficientTrainer:
         return loss
 ```
 
-### 3. Specialized Applications
+### 3. Specializing Applications
 
 #### Computer Vision
 - Vision Transformers (ViT, Swin)
@@ -105,7 +105,6 @@ class EfficientTrainer:
 
 ## 🎓 Research & Implementation
 
-### Published Implementations
 1. **Attention Mechanisms**
    - Flash Attention
    - Sparse Attention
